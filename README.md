@@ -1,9 +1,9 @@
 # Suduko_Solver
-Winter Programming Bootcamp2020
-Aim:
-To write a C++ program to solve Sudoku Game
+## Winter Programming Bootcamp2020
+### Aim:
+   To write a C++ program to solve Sudoku Game
 
-Introdcution:
+#### Introdcution:
 Sudoku is a 9 x 9 number grid, and the whole grid are also divided into 3 x 3 sub-grids. We have to fill the missing places in the grid with some constraints. There are some rules to solve the Sudoku.
 
 Digits allowed are 1 to 9.
