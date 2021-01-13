@@ -64,6 +64,5 @@ bool solve(){
 
 **In this way we can solve the Sudoku using Backtracking Algorithms.**
 
-#### Execution of main.cpp:
 
-![](output.png)
+
