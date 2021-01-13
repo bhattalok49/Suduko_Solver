@@ -1,6 +1,6 @@
 # Suduko_Solver
-Winter Programming Bootcamp2020
-Aim:
+##Winter Programming Bootcamp2020
+###Aim:
 To write a C++ program to solve Sudoku Game
 
 Introdcution:
